@@ -8,7 +8,6 @@ A modern digital clock built using HTML, CSS, and JavaScript that displays real-
 - ⏱️ Real-time clock (updates every second)
 - 📅 Displays current date
 - 🎨 Modern UI with gradient animation
-- 💡 Glowing text effect
 - 📱 Responsive and centered layout
 
 ---
